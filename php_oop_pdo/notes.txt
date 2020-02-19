@@ -1,0 +1,15 @@
+=> define route
+  - routes.php
+
+=> create controller
+  - controllers/
+  - In that controller 
+    - call view file
+
+=> create view
+  - views
+  - write html
+
+=> Start Laravel
+
+http://heinminhtet.com/ubuntu_note/laravel_install.html
